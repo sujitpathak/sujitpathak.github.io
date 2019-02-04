@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sujitpathak/sujitpathak.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am QA Lead with more than 7 years of experience in Testing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You connect me at LinkedIn and Facebook
 
 ### Markdown
 
